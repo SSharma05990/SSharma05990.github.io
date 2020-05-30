@@ -1,0 +1,194 @@
+#navbar {
+    overflow: hidden;
+  }
+  
+  #navbar a {
+    float: left;
+    display: square;
+    color: rgb(00,128, 00);
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size:  20px;
+    font-family: 'Times New Roman', Times, serif;
+    background: yellow;
+
+  }
+  
+  .content {
+    padding: 16px;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
+  
+
+
+
+
+
+body {
+    background: #000000
+}
+
+label {
+    color: #ffffff
+}
+
+li {
+    color: green
+}
+
+h1 {
+    color: green
+}
+
+
+
+label {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.form-group {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+h1 {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+button {
+    margin-left: 670px;
+    margin-right: 670px;
+}
+
+
+
+.yuiop {
+    color: rgb(60, 192, 60)
+  }
+  
+  .yuiop {
+    font-size: 23px;
+  }
+  
+  
+  .socialmedia {
+    color: gold
+  }
+  
+  
+  .socialmedia {
+    background: turquoise
+  }
+  
+  
+  
+  .socialmedia {
+   font-size: 65px
+  }
+  
+  .fa-instagram {
+    color: white
+  
+  }
+  
+  .fa-instagram {
+    background: navy
+  }
+  
+  .fa-instagram {
+    font-size: 40px
+   
+  }
+  
+  .fa-instagram {
+    padding: 20px
+  
+  }
+  
+  .fa-instagram {
+    border-radius: 30px;
+  
+  }
+  
+  .fa-instagram {
+    color: white
+   
+  }
+  
+  .fa-instagram {
+    margin: 20px
+  }
+  
+  .fa-facebook-square {
+    font-size: 40px
+  }
+  
+  
+  .fa-facebook-square {
+    color: white
+  }
+  
+  .fa-facebook-square {
+    background: navy
+  }
+  
+  .fa-facebook-square {
+    margin: 20px
+  }
+  
+  .fa-facebook-square {
+    padding: 20px
+  }
+  
+  .fa-facebook-square {
+      border-radius: 30px;
+  }
+  
+  
+  
+  
+  .fa-youtube{
+    font-size: 40px
+  }
+  
+  
+  .fa-youtube{
+    color: red
+  }
+  
+  .fa-youtube{
+    background: white
+  }
+  
+  .fa-youtube{
+    margin: 20px
+  }
+  
+  .fa-youtube{
+    padding: 20px
+  }
+  
+  .fa-youtube{
+      border-radius: 30px;
+  }
+  
+#small {
+  color: white
+}  
+
+

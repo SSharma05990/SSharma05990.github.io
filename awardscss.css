@@ -1,0 +1,146 @@
+#navbar {
+    overflow: hidden;
+  }
+  
+  #navbar a {
+    float: left;
+    display: square;
+    color: red;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .content {
+    padding: 16px;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
+  
+
+
+
+
+
+
+.container{
+    max-width: 2000px;
+    margin: 0 auto;
+    background: #040509;
+    font-size:  24px;
+    padding: 20px;
+    margin-right: 19px;
+    margin-bottom: 1px;
+
+}
+
+.parallax {
+    background: url('/Users/shauryasharma/Desktop/Personal Website/test.jpg') repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    position: relative;
+}
+
+
+.number1{
+    max-width: 2000px;
+    margin: 0 auto;
+    background: #040509;
+    font-size:  24px;
+    padding: 20px;
+    margin-right: 19px;
+    margin-bottom: 1px;
+
+}
+
+.okok {
+    background: url('/Users/shauryasharma/Desktop/Personal Website/Magnus.jpg') repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    position: relative;
+}
+
+img{
+    width: 450px;
+    height: 400px;
+    border: 8px groove white;
+    margin-right: 19px;
+    margin-bottom: 2px;
+}
+
+body {
+    background: black
+}
+
+h1 {
+    background: red
+}
+
+h1 {
+    color: green
+}
+
+p {
+    color: white
+}
+
+li {
+    color: blue
+}
+
+#special {
+    color: green
+}
+
+#no {
+    color: green
+}
+
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 15px;
+}
+
+#special {
+    font-size: 20px;
+}
+
+#no {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+li {
+    color: red
+}
+
+a {
+    color: red
+}
+
+a {
+    font-size: 15px;
+}
+
+li {
+    margin-left: 15px;
+}

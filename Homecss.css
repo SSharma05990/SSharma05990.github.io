@@ -1,0 +1,444 @@
+#navbar {
+    overflow: hidden;
+  }
+  
+  #navbar a {
+    float: left;
+    display: square;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background: #000080;
+  }
+  
+  .content {
+    padding: 16px;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
+  
+
+
+
+.container{
+    max-width: 2000px;
+    margin: 0 auto;
+    background: #040509;
+    font-size:  24px;
+    padding: 3px;
+
+}
+
+.parallax {
+    background: url('/Users/shauryasharma/Desktop/Personal Website/image.jpg') repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+}
+
+
+body {
+    background: #040509;
+  }
+
+  h1 {
+    color: #000000;
+}
+
+h1 {
+    Background: #FFFFFF;
+}
+
+
+a {
+    color: turquoise;
+
+}
+
+p {
+    color: #FFFFFF;
+}
+
+img {
+    width: 500px;
+    height: 600px;
+    border: 8px solid white;
+    margin-right: 20px;
+  }
+
+  h1 {
+      font-size: 60px;
+  }
+
+  p {
+      font-size: 17px;
+  }
+
+  h1 {
+      font-family: Zapf Chancery, cursive;
+  }
+
+  h1 {
+      font-weight: 600;
+  }
+
+p {
+    font-family: "Courier New", Courier, monospace;
+}
+
+p {
+    font-weight: 900;
+}
+
+a {
+    color: turquoise
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mnbv{
+  max-width: 2000px;
+  margin: 0 auto;
+  background: #040509;
+  font-size:  24px;
+  padding: 20px;
+  margin-right: 19px;
+  margin-bottom: 1px;
+
+}
+
+.mn {
+  background: url('/Users/shauryasharma/Desktop/Personal Website/test.jpg') repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px;
+  position: relative;
+}
+
+.number1{
+  max-width: 2000px;
+  margin: 0 auto;
+  background: #040509;
+  font-size:  24px;
+  padding: 20px;
+  margin-right: 19px;
+  margin-bottom: 1px;
+
+}
+
+.okok {
+  background: url('/Users/shauryasharma/Desktop/Personal Website/Magnus.jpg') repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px;
+  position: relative;
+}
+
+.qwerty{
+  max-width: 2000px;
+  margin: 0 auto;
+  background: #040509;
+  font-size:  24px;
+  padding: 20px;
+  margin-right: 19px;
+  margin-bottom: 1px;
+
+}
+
+.asdf {
+  background: url('/Users/shauryasharma/Desktop/Personal Website/last.jpg') repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px;
+  position: relative;
+}
+
+
+.pqwewq {
+  background: #FFE812
+}
+
+.pqwewq {
+  color: #F20000
+} 
+
+.pqwewq {
+  font-size: 70px;
+}
+
+.pop-up {
+  font-size: 20px;
+  color: #a3a805
+}
+
+b {
+  font-size: 25px;
+}
+
+b {
+  background: #FFFFFF
+}
+
+b {
+  color: #256CA2
+}
+
+i {
+  font-size: 20px;
+}
+
+i {
+  color: #00FF00
+}
+
+li {
+  color: #DFAE3C
+}
+
+a {
+  color: yellow
+}
+
+
+
+
+
+
+.lplp{
+  max-width: 2000px;
+  margin: 0 auto;
+  background: #040509;
+  font-size:  24px;
+  padding: 20px;
+  margin-right: 19px;
+  margin-bottom: 1px;
+
+}
+
+.plpl {
+  background: url('/Users/shauryasharma/Desktop/Personal Website/test.jpg') repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px;
+  position: relative;
+}
+
+
+.number1{
+  max-width: 2000px;
+  margin: 0 auto;
+  background: #040509;
+  font-size:  24px;
+  padding: 20px;
+  margin-right: 19px;
+  margin-bottom: 1px;
+
+}
+
+.okok {
+  background: url('/Users/shauryasharma/Desktop/Personal Website/Magnus.jpg') repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px;
+  position: relative;
+}
+
+
+.cvbn {
+  background: red
+}
+
+
+.cvbn {
+  color: limegreen
+}
+
+
+.blue {
+  background-color: blue
+}
+
+.background {
+  color: yellow
+}
+
+.tes12 {
+  color: #a3a805
+}
+
+.tes12 {
+  font-size: 20px;
+}
+
+.dcWAEF {
+  color: #a3a805
+}
+
+.dcWAEF {
+  font-size: 20px;
+}
+
+.awrd {
+  color: #962e1a
+}
+
+.awrd {
+  font-size: 20px
+}
+
+.yuiop {
+  color: rgb(60, 192, 60)
+}
+
+.yuiop {
+  font-size: 23px;
+}
+
+
+.socialmedia {
+  color: gold
+}
+
+
+.socialmedia {
+  background: turquoise
+}
+
+
+
+.socialmedia {
+ font-size: 65px
+}
+
+.fa-instagram {
+  color: white
+
+}
+
+.fa-instagram {
+  background: navy
+}
+
+.fa-instagram {
+  font-size: 100px
+ 
+}
+
+.fa-instagram {
+  padding: 20px
+
+}
+
+.fa-instagram {
+  border-radius: 30px;
+
+}
+
+.fa-instagram {
+  color: white
+ 
+}
+
+.fa-instagram {
+  margin: 20px
+}
+
+.fa-facebook-square {
+  font-size: 100px
+}
+
+
+.fa-facebook-square {
+  color: white
+}
+
+.fa-facebook-square {
+  background: navy
+}
+
+.fa-facebook-square {
+  margin: 20px
+}
+
+.fa-facebook-square {
+  padding: 20px
+}
+
+.fa-facebook-square {
+    border-radius: 30px;
+}
+
+
+
+
+.fa-youtube{
+  font-size: 100px
+}
+
+
+.fa-youtube{
+  color: red
+}
+
+.fa-youtube{
+  background: white
+}
+
+.fa-youtube{
+  margin: 20px
+}
+
+.fa-youtube{
+  padding: 20px
+}
+
+.fa-youtube{
+    border-radius: 30px;
+}
+

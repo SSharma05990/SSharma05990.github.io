@@ -1,0 +1,178 @@
+#navbar {
+    overflow: hidden;
+  }
+  
+  #navbar a {
+    float: left;
+    display: square;
+    color: yellow;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .content {
+    padding: 16px;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+    max-width: 2000px;
+    margin: 0 auto;
+    background: #040509;
+    font-size:  24px;
+    padding: 20px;
+    margin-right: 19px;
+    margin-bottom: 1px;
+
+}
+
+.parallax {
+    background: url('/Users/shauryasharma/Desktop/Personal Website/test.jpg') repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    position: relative;
+}
+
+.number1{
+    max-width: 2000px;
+    margin: 0 auto;
+    background: #040509;
+    font-size:  24px;
+    padding: 20px;
+    margin-right: 19px;
+    margin-bottom: 1px;
+
+}
+
+.okok {
+    background: url('/Users/shauryasharma/Desktop/Personal Website/Magnus.jpg') repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    position: relative;
+}
+
+.qwerty{
+    max-width: 2000px;
+    margin: 0 auto;
+    background: #040509;
+    font-size:  24px;
+    padding: 20px;
+    margin-right: 19px;
+    margin-bottom: 1px;
+
+}
+
+.asdf {
+    background: url('/Users/shauryasharma/Desktop/Personal Website/last.jpg') repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    position: relative;
+}
+
+body {
+    background: #0B0B10
+}
+
+h1 {
+    color: #F20000
+}
+
+
+h1 {
+    background: #FFE812
+}
+
+li {
+    color: #DFAE3C
+}
+
+b {
+    color: #256CA2
+}
+
+b {
+    background: #FFFFFF
+}
+p {
+    color: #FFFFFF
+}
+
+i {
+    color: #00FF00
+}
+
+img{
+    width: 450px;
+    height: 485px;
+    border: 8px groove white;
+    margin-right: 19px;
+    margin-bottom: 1px;
+}
+
+b {
+    font-size: 25px;
+}
+i {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+a {
+    color: yellow
+}
